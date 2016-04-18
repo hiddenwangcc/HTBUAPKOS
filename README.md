@@ -28,6 +28,6 @@
 
 ## Changelog
 
-2016年04月18日 by [易仁永澄][1]
+- 2016年04月18日 by [易仁永澄][1]
 
 [1]:	http://blog.hiddenwangcc.com
