@@ -27,6 +27,16 @@
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>01_preface.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>482805581.93181598</real>
+				<key>version</key>
+				<dict>
+					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -37,14 +47,14 @@
 					<integer>6</integer>
 				</dict>
 			</dict>
-			<key>chapter1.md</key>
+			<key>Summary.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>482720716.69320899</real>
+				<real>482805609.13230801</real>
 				<key>version</key>
 				<dict>
 					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
-					<integer>6</integer>
+					<integer>12</integer>
 				</dict>
 			</dict>
 			<key>index.md</key>
@@ -61,16 +71,6 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>summary.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>482720716.69321001</real>
-				<key>version</key>
-				<dict>
-					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
-					<integer>6</integer>
-				</dict>
-			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -79,10 +79,10 @@
 			<string>index.md</string>
 		</array>
 		<array>
-			<string>chapter1.md</string>
+			<string>01_preface.md</string>
 		</array>
 		<array>
-			<string>summary.md</string>
+			<string>Summary.md</string>
 		</array>
 		<array>
 			<string>README.md</string>
@@ -100,7 +100,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
-			<integer>9</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
