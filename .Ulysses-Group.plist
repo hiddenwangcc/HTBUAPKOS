@@ -47,16 +47,6 @@
 					<integer>6</integer>
 				</dict>
 			</dict>
-			<key>Summary.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>482805609.13230801</real>
-				<key>version</key>
-				<dict>
-					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
-					<integer>12</integer>
-				</dict>
-			</dict>
 			<key>index.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -71,6 +61,16 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
+			<key>summary.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>482807071.57290202</real>
+				<key>version</key>
+				<dict>
+					<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
@@ -82,7 +82,7 @@
 			<string>01_preface.md</string>
 		</array>
 		<array>
-			<string>Summary.md</string>
+			<string>summary.md</string>
 		</array>
 		<array>
 			<string>README.md</string>
@@ -100,7 +100,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>a251ff2c83affebd7ca837acae96dec3d540acec958c488b425eb7ff196148a9</key>
-			<integer>12</integer>
+			<integer>13</integer>
 		</dict>
 	</dict>
 </dict>
