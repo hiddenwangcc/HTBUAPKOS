@@ -25,4 +25,4 @@
 
 ## Changelog
 
-- 2016年04月22日 创建内容 by [易仁永澄][http://blog.hiddenwangcc.com]
+- 2016年04月22日 创建内容 by [易仁永澄](http://blog.hiddenwangcc.com)
