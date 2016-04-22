@@ -3,19 +3,18 @@
 - [一、前言](01_preface.md)
 
 - [二、个人知识输出的三个层次](2_system_principle/README.md)
-
-        - [看看他们怎么说](2_system_principle/benifit.md)
-	- [输出内容的层次](2_system_principle/definition_and_level.md)
-	- [抽象关键特征](2_system_principle/key_point.md)
-	- [找准输出策略](2_system_principle/strategy_of_level.md)
-	- [本章小节](2_system_principle/section_summary.md)
+    - [看看他们怎么说](2_system_principle/benifit.md)
+    - [输出内容的层次](2_system_principle/definition_and_level.md)
+    - [抽象关键特征](2_system_principle/key_point.md)
+    - [找准输出策略](2_system_principle/strategy_of_level.md)
+    - [本章小节](2_system_principle/section_summary.md)
 - 三、输出系统的构建要求
-	- 根据策略谈要求
-	- 硬件选型
-	- 软件选型及准备
+    - 根据策略谈要求
+    - 硬件选型
+    - 软件选型及准备
 - 四、卡片层级系统构建
-	- 系统搭建方法
-	- 卡片管理方案
+    - 系统搭建方法
+    - 卡片管理方案
 - 五、文章层级系统构建
 	- 写作系统搭建
 	- 文章管理方案
@@ -28,6 +27,3 @@
 	- 版本控制及发布
 - 七、示范案例
 - 八、更多资源
-
-[1]:	
-[2]:	 "二、个人知识输出的三个层次"
