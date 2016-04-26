@@ -6,8 +6,7 @@
     - [看看他们怎么说](2_system_principle/benifit.md)
     - [什么是PKOS](2_system_principle/definition.md) 
     - [输出内容的层次](2_system_principle/content_level.md)
-    - [抽象关键特征](2_system_principle/key_point.md)
-    - [找准输出策略](2_system_principle/strategy_of_level.md)
+    - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
     - [本章小节](2_system_principle/section_summary.md)
 - 三、输出系统的构建要求
     - 根据策略谈要求
