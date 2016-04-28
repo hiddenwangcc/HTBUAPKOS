@@ -8,10 +8,11 @@
     - [输出内容的层次](2_system_principle/content_level.md)
     - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
     - [本章小节](2_system_principle/section_summary.md)
-- 三、输出系统的构建要求
-    - 根据策略谈要求
-    - 硬件选型
-    - 软件选型及准备
+- [三、输出系统的构建要求](3_buildup_demand/README.md)
+    - [根据策略谈要求](3_buildup_demand/demand.md)
+    - [硬件选型方案](3_buildup_demand/hardware.md)
+    - [软件选型方案](3_buildup_demand/software.md)
+    - [本章小结](3_buildup_demand/pkos_workflow.md)
 - 四、卡片层级系统构建
     - 系统搭建方法
     - 卡片管理方案
