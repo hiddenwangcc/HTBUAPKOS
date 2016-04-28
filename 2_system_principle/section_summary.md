@@ -33,7 +33,13 @@
 
 好了，这样的高价值就在下一章等着呢，准备开始吧！
 
+---- 
+
+## Changelog
+- 2016年04月28日 创建内容 by [易仁永澄][3]
+
 [1]:	https://github.com/hiddenwangcc/HTBUAPKOS/issues/5
 [2]:	http://wiz.cn "为知笔记"
+[3]:	http://blog.hiddenwangcc.com
 
 [image-1]:	http://77fm42.com1.z0.glb.clouddn.com/lijun.jpg "李峻的素材层管理方案"
