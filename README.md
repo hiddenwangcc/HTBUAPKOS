@@ -43,10 +43,12 @@
 
 ## Changelog
 
-- 2016年04月20日 增加Github Wiki功能 by [易仁永澄][1]
--  2016年04月18日 创建内容 by [易仁永澄][2]
+- 2016年04月30日 第二章内容定稿 by [易仁永澄][1]
+- 2016年04月20日 增加Github Wiki功能 by [易仁永澄][2]
 - 2016年04月19日 增加本书结构 by [易仁永澄][3]
+- 2016年04月18日 创建内容 by [易仁永澄][4]
 
 [1]:	http://blog.hiddenwangcc.com
 [2]:	http://blog.hiddenwangcc.com
 [3]:	http://blog.hiddenwangcc.com
+[4]:	http://blog.hiddenwangcc.com
