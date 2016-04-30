@@ -5,7 +5,7 @@
 - [二、个人知识输出的三个层次](2_system_principle/README.md)
     - [看看他们怎么说](2_system_principle/benifit.md)
     - [什么是PKOS](2_system_principle/definition.md) 
-    - [输出内容的层次](2_system_principle/content_level.md)
+    - [如何打开黑盒子](2_system_principle/explore_system.md)
     - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
     - [本章小节](2_system_principle/section_summary.md)
 - [三、输出系统的构建要求](3_buildup_demand/README.md)
