@@ -2,18 +2,18 @@
 
 - [一、前言](01_preface.md)
 
-- [二、个人知识输出的三个层次](2_system_principle/README.md)
+- [二、PKOS系统构建方法](2_system_principle/README.md)
     - [看看他们怎么说](2_system_principle/benifit.md)
     - [什么是PKOS](2_system_principle/definition.md) 
     - [如何打开黑盒子](2_system_principle/explore_system.md)
     - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
     - [本章小节](2_system_principle/section_summary.md)
-- [三、输出系统的构建要求](3_buildup_demand/README.md)
-    - [根据策略谈要求](3_buildup_demand/demand.md)
+- [三、系统构建的软硬件选型](3_buildup_demand/README.md)
+    - [根据功能提要求](3_buildup_demand/demand.md)
     - [硬件选型方案](3_buildup_demand/hardware.md)
     - [软件选型方案](3_buildup_demand/software.md)
     - [本章小结](3_buildup_demand/pkos_workflow.md)
-- 四、卡片层级系统构建
+- 四、素材层级系统构建
     - 系统搭建方法
     - 卡片管理方案
 - 五、文章层级系统构建
