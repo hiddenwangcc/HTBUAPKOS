@@ -7,7 +7,7 @@
     - [什么是PKOS](2_system_principle/definition.md) 
     - [如何打开黑盒子](2_system_principle/explore_system.md)
     - [系统构建策略](2_system_principle/strategy_of_system_buildup.md)
-    - [本章小节](2_system_principle/section_summary.md)
+    - [本章小结](2_system_principle/section_summary.md)
 - [三、系统构建的软硬件选型](3_buildup_demand/README.md)
     - [根据功能提要求](3_buildup_demand/demand.md)
     - [硬件选型方案](3_buildup_demand/hardware.md)
