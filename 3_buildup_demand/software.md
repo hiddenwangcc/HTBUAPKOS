@@ -92,6 +92,7 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 
 据说，全世界最聪明的人都汇聚在[Github](https://github.com/)上，对于这一点我毫不质疑！Github的每一个产品都闪现着智慧的光芒（比如我曾写的《[Issues的哲学思想](http://blog.hiddenwangcc.com/archives/2645)》，还有Gist、Pages都有如神来之笔）。用Github就可以解决文章层输出内容形态中对**可控版本的文章存储工具**的需求。本部分我不展开介绍Github的具体使用方法，对于PKOSer来说，只要学会新建目录、重命名就可以使用Github了，不过，我还是建议提前看看以下两部分内容：
 - Git：《[廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)》
+- Git：《[猴子都能懂的Git入门教程](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)》
 - Github：《[薛鑫的GotGithub教程](http://www.worldhello.net/gotgithub/)》
 
 强烈要求PKOS构建者阅读，大约用一天半的时间就可以完成，然后换来一种哲学思维、一个进入世界上最聪明人聚集地的入场券、一种未来的可能，太值得了！
