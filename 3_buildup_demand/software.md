@@ -97,18 +97,25 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 
 强烈要求PKOS构建者阅读，大约用一天半的时间就可以完成，然后换来一种哲学思维、一个进入世界上最聪明人聚集地的入场券、一种未来的可能，太值得了！
 
-### （四）Jekyll
+### （四）Farbox
 
-**可展示文章和文章库的平台**这个需求也可以满足了，那就是——Jekyll。Jekyll是一个简单的静态博客站点的生成机器，我们可以将其理解成一个系统：**输入端是我们已经形成的文章层输出内容，经过Jekyll就会在您的博客上展示出一篇文章**。这里有几大好处：
-- Jekyll的黑盒子不需要打开，只要按照要求配置一下就好了；
-- Jekyll支持Markdown写作，所以，Ulysses就派上用场了；
-- Jekyll的内容托管在您的Github Page上，免费、永远不丢；
-- Jekyll很简单，点点鼠标就搞定了！
+Farbox是我不久前发现的文章层次非常棒的服务和App提供商，虽然它是收费的（五年共30元），但是，它的服务真的是少有的好！Farbox可以满足**可展示文章和文章库的平台**这个需求，它可以用极为简单的方法生成博客站点，我们可以将其理解成一个系统：**输入端是我们已经形成的文章层输出内容，经过Farbox就会在您的博客上展示出一篇文章**。这里有几大好处：
+- Farbox的黑盒子不需要打开，只要按照要求配置一下就好了；
+- Farbox支持Markdown写作，并且简单的Markdown格式可以形成多种样式；
+- Farbox的内容托管在Dropbox上，非常稳定；
+- Farbox很简单，点点鼠标就搞定了！
+
+Farbox是我非常推荐的软件平台，并且被我收入“5分钟可以学会的技能”列表之中。
+
+### （五）Jekyll、Hexo
+
+Jekyll和Hexo都是静态网页生成服务，免费、开源，很多技术博客都是用它们来生成的，如果您觉得Farbox可能不那么稳定或者靠谱，并且想挑战更多的可能性，那就用Jekyll或者Hexo来搭建博客吧，它们可以将博客搭建在Github上，就更靠谱了吧？如果你真的是一个Geeker，一定不会放过对它们的试用的。
 
 资源推荐：
 - Jekyll中文官方网站：[点击查看](http://jekyll.bootcss.com/docs/home/)
 - Jekyll主题：[点击查看](http://jekyllthemes.org/)
 - 10元钱+20分钟搭建独立域名博客：[点击查看](http://blog.hiddenwangcc.com/archives/2454)
+- Hexo中文说明文档：[点击查看](https://hexo.io/zh-cn/docs/)
 
 ## 图书层
 
@@ -145,6 +152,7 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 - 讯飞语记
 - Mindmanager
 - Ulysses
+- farbox
 - Github
 - Gitbook
 
@@ -153,4 +161,5 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 ---- 
 
 ## Changelog
+- 2016年05月06日 增加farbox内容 by [易仁永澄](http://blog.hiddenwangcc.com)
 - 2016年05月02日 创建内容 by [易仁永澄](http://blog.hiddenwangcc.com)
