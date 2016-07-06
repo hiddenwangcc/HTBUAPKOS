@@ -28,20 +28,20 @@ PKOS的关键在于输出，本章所谈的硬件指的就是输出类的硬件�
 
 ![][image-2]
 
-笔记本是一台2015年的[Macbook Air][2]，13寸中等配置。
-- 处理器：1.6GHz Intel Core i5
+笔记本是一台2015年的[Macbook Pro][2]，13寸中等配置。
+- 处理器：2.6GHz Intel Core i5
 - 内存：8GB 1600MHz DDR3
 - 存储：128GB PCle闪存
 
-这台Air平时只用来处理图片，输出文字、脑图和演示；平时下班在家，在书房接外置显示器、在床上就进入疯狂书写模式；偶尔出差也带着，比MacbookPro轻便，还是很适合的。
+这台MBP平时只用来处理图片，输出文字、脑图和演示；平时下班在家，在书房接外置显示器、在床上就进入疯狂书写模式；偶尔出差也带着，还是很适合的。
 
 ### （三）平板设备
 
-平板电脑是一台2015年的[iPad][3] Air 2。
-- 内存：64GB
+平板电脑是一台2015年的[iPad][3] Pro 12.9。
+- 内存：128GB
 - 无线设备：4GCellular
 
-通常用于外出参加沙龙活动时携带记录笔记使用，这个家伙是可选的，根据自己的实际情况来吧，有它没有加多少分、没它也不会扣多少分。总感觉iOS的系统是用来弥补OS系统使用空隙的，当Macbook系列发挥作用之后，iPad真是可有可无。
+这台设备是从伙伴那连哄带骗地要来的，屏幕大、有键盘还有一支笔，经常写写画画，把思路给输出出来，效果还真是不错。不过，平板并不是必备产品，根据自己的实际情况来选择吧，有它没有加多少分、没它也不会扣多少分。总感觉iOS的系统是用来弥补OS系统使用空隙的，当Macbook系列发挥作用之后，iPad真是可有可无。
 
 ### （四）手机
 
@@ -118,14 +118,14 @@ PKOS的关键在于输出，本章所谈的硬件指的就是输出类的硬件�
 2. iOS操作系统的移动设备，至少是一台iPad；
 3. 蓝牙键盘一个。
 
-如果有其他条件，那请您在最小可实现的基础上随意发挥即可。如果您还没有苹果生态的相关设备，想买一台但是不知道究竟买什么型号的合适，我强烈推荐[MacRumors网站](http://buyersguide.macrumors.com/)，它的用户指引实在是太帅气了！
+如果有其他条件，那请您在最小可实现的基础上随意发挥即可。如果您还没有苹果生态的相关设备，想买一台但是不知道究竟买什么型号的合适，我强烈推荐[MacRumors网站][7]，它的用户指引实在是太帅气了！
 
 ---- 
 
 ## Changelog
 
-- 2016年05月02日 增加最小可实现部分 by [易仁永澄][7]
-- 2016年04月28日 创建内容 by [易仁永澄][7]
+- 2016年05月02日 增加最小可实现部分 by [易仁永澄][8]
+- 2016年04月28日 创建内容 by [易仁永澄][9]
 
 [1]:	http://www.apple.com/cn/imac/
 [2]:	http://www.apple.com/cn/macbook-air/
@@ -133,7 +133,9 @@ PKOS的关键在于输出，本章所谈的硬件指的就是输出类的硬件�
 [4]:	http://www.apple.com/cn/iphone/
 [5]:	https://item.taobao.com/item.htm?spm=a1z09.2.0.0.xS6lPY&id=520781754917&_u=s1rbbtod312
 [6]:	http://www.logitech.com.cn/zh-cn/home
-[7]:	http://blog.hiddenwangcc.com
+[7]:	http://buyersguide.macrumors.com/
+[8]:	http://blog.hiddenwangcc.com
+[9]:	http://blog.hiddenwangcc.com
 
 [image-1]:	http://77fm42.com1.z0.glb.clouddn.com/applemac.jpg "iMac"
 [image-2]:	http://77fm42.com1.z0.glb.clouddn.com/applemba.jpg "Macbook Air"

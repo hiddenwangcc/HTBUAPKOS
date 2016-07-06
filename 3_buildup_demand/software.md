@@ -22,7 +22,7 @@
 
 看看自己输出的知识体系，真的觉得心满意足了！
 
-![易仁永澄的iCloud Driver](http://77fm42.com1.z0.glb.clouddn.com/icloud.jpg)
+![易仁永澄的iCloud Driver][image-1]
 
 iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步服务，如Dropbox或者国内的若干同步服务，将会带来非常大而且毫无必要的管理成本投入。
 
@@ -33,7 +33,7 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 - 备忘录支持iCoud无缝同步，同时支持单字级的搜索功能，可以快速找到我们想要的一切。
 - 备忘录自iOS9.0版本更新以后，就变得无比强大，除了文字之外，还支持图片、链接、地图和其他信息，各种附件还可以用简洁视图查询。
 
-![易仁永澄的备忘录](http://77fm42.com1.z0.glb.clouddn.com/beiwanglu.jpg)
+![易仁永澄的备忘录][image-2]
 
 最后，我多说一句，Evernote其实是知识输入系统环节需要考虑的软件，把它放到知识输出系统里面，就好像吃饭用菜刀夹菜是一个感觉。
 
@@ -44,7 +44,7 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 - 移动设备端的体验实在是太好了，比Mindjet和Xmind高出N的段位。
 - 可以快速分享成多种格式，还有独立的分享页面，和团队之间交流这个功能也非常棒！
 
-![我的Mindnode](http://77fm42.com1.z0.glb.clouddn.com/mindnode.jpg)
+![我的Mindnode][image-3]
 
 售价：68元。
 
@@ -58,7 +58,7 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 
 - 苹果自带的**语音备忘录**，虽然没有备忘录好用，但是简单记录想法和灵感是足够了；
 - **RecApp**，必须力推这款App，高级版支持自定标签并且导出时显示标记（尤其是以问题为导向的思路提出和解答，App中都给了现成的标签标记），对于超过10分钟的思路整理，这款App太节省时间了！高级版售价：25元。
-![RecApp推荐](http://77fm42.com1.z0.glb.clouddn.com/recapp.jpg)
+![RecApp推荐][image-4]
 - **变速MP3**，灵感记录的时候，需要慢慢思考慢慢说，但是在整理语音灵感的时候，需要一款支持快速播放的软件，它最高可以到4倍速播放，省时省时省时！
 
 ## 文章层
@@ -75,25 +75,25 @@ iCloud是整个PKOS的底层同步服务，如果更换了其他种类的同步�
 
 ### （二）Ulysses
 
-这款名叫“[尤利西斯](http://www.ulyssesapp.com/)”的家伙是我最喜欢的写作App！
+这款名叫“[尤利西斯][1]”的家伙是我最喜欢的写作App！
 - 它全方位地支持了Markdown格式，让我的输出变得简单轻松；
 - 它支持目标设置，可以让我沉浸在输出之中；
 - 它支持外接文件夹，可以打通文章层的存储、发布、展示多项需求；
 - 它全面支持苹果的各个设备；
 - 它很美！
 
-![Ulysses硬件选型方案页面](http://77fm42.com1.z0.glb.clouddn.com/ulysses.jpg)
+![Ulysses硬件选型方案页面][image-5]
 
 这里要多说一句，Ulysses是我的主力写作工具，因为它可以管理外接文件夹，所以，我可以将文章层的所有内容托管在iCloud中，每一次更新Ulysses都会自动保存，而iCloud则会自动同步。之后，将Github的Repo同步至iCloud的该文件夹，所有的内容将被自动完成版本控制，再通过Jekyll等服务，可以将其一键发布到自己的博客平台上。而这一切，只需要在Ulysses中书写，再点击同步即可。所以，请坚定地购入Ulysses，很值！
 
-售价：283元 on [Mac](https://itunes.apple.com/cn/app/ulysses/id623795237?mt=12&ign-mpt=uo%3D4)，163元 on [iOS](https://itunes.apple.com/cn/app/ulysses/id950335311?mt=8&ign-mpt=uo%3D4)。
+售价：283元 on [Mac][2]，163元 on [iOS][3]。
 
 ### （三）Github
 
-据说，全世界最聪明的人都汇聚在[Github](https://github.com/)上，对于这一点我毫不质疑！Github的每一个产品都闪现着智慧的光芒（比如我曾写的《[Issues的哲学思想](http://blog.hiddenwangcc.com/archives/2645)》，还有Gist、Pages都有如神来之笔）。用Github就可以解决文章层输出内容形态中对**可控版本的文章存储工具**的需求。本部分我不展开介绍Github的具体使用方法，对于PKOSer来说，只要学会新建目录、重命名就可以使用Github了，不过，我还是建议提前看看以下两部分内容：
-- Git：《[廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)》
-- Git：《[猴子都能懂的Git入门教程](http://backlogtool.com/git-guide/cn/intro/intro1_1.html)》
-- Github：《[薛鑫的GotGithub教程](http://www.worldhello.net/gotgithub/)》
+据说，全世界最聪明的人都汇聚在[Github][4]上，对于这一点我毫不质疑！Github的每一个产品都闪现着智慧的光芒（比如我曾写的《[Issues的哲学思想][5]》，还有Gist、Pages都有如神来之笔）。用Github就可以解决文章层输出内容形态中对**可控版本的文章存储工具**的需求。本部分我不展开介绍Github的具体使用方法，对于PKOSer来说，只要学会新建目录、重命名就可以使用Github了，不过，我还是建议提前看看以下两部分内容：
+- Git：《[廖雪峰的Git教程][6]》
+- Git：《[猴子都能懂的Git入门教程][7]》
+- Github：《[薛鑫的GotGithub教程][8]》
 
 强烈要求PKOS构建者阅读，大约用一天半的时间就可以完成，然后换来一种哲学思维、一个进入世界上最聪明人聚集地的入场券、一种未来的可能，太值得了！
 
@@ -112,10 +112,10 @@ Farbox是我非常推荐的软件平台，并且被我收入“5分钟可以学�
 Jekyll和Hexo都是静态网页生成服务，免费、开源，很多技术博客都是用它们来生成的，如果您觉得Farbox可能不那么稳定或者靠谱，并且想挑战更多的可能性，那就用Jekyll或者Hexo来搭建博客吧，它们可以将博客搭建在Github上，就更靠谱了吧？如果你真的是一个Geeker，一定不会放过对它们的试用的。
 
 资源推荐：
-- Jekyll中文官方网站：[点击查看](http://jekyll.bootcss.com/docs/home/)
-- Jekyll主题：[点击查看](http://jekyllthemes.org/)
-- 10元钱+20分钟搭建独立域名博客：[点击查看](http://blog.hiddenwangcc.com/archives/2454)
-- Hexo中文说明文档：[点击查看](https://hexo.io/zh-cn/docs/)
+- Jekyll中文官方网站：[点击查看][9]
+- Jekyll主题：[点击查看][10]
+- 10元钱+20分钟搭建独立域名博客：[点击查看][11]
+- Hexo中文说明文档：[点击查看][12]
 
 ## 图书层
 
@@ -132,7 +132,7 @@ Jekyll和Hexo都是静态网页生成服务，免费、开源，很多技术博�
 
 ### （二）Gitbook
 
-好了，就剩下快速发布和精美展示图书的平台这一个问题了，解决方案就是Gitbook！我们还是可以把Gitbook理解成一个系统：**输入端是Markdown文件，经过Gitbook之后就会形成一本可以精美展示的树状结构图书**。Gitbook研发团队有自己的[官网](https://www.gitbook.com/)，每个人都可以在上面发布自己的图书，同时，Gitbook还提供开源的工具包，可以使用该工具包搭建属于自己的图书生成服务，幸福进化俱乐部就提供图书生成服务，请点击链接生成您自己的图书吧。
+好了，就剩下快速发布和精美展示图书的平台这一个问题了，解决方案就是Gitbook！我们还是可以把Gitbook理解成一个系统：**输入端是Markdown文件，经过Gitbook之后就会形成一本可以精美展示的树状结构图书**。Gitbook研发团队有自己的[官网][13]，每个人都可以在上面发布自己的图书，同时，Gitbook还提供开源的工具包，可以使用该工具包搭建属于自己的[图书生成服务][14]，幸福进化俱乐部就提供图书生成服务，请点击链接生成您自己的图书吧。
 
 另外，Gitbook还有一个非常强大的功能，就可以将Github的Repository直接解析成一本电子书，还可以将其导出成多种格式。比如本书就是一键解析的。
 
@@ -141,7 +141,7 @@ Jekyll和Hexo都是静态网页生成服务，免费、开源，很多技术博�
 生活在某一个环境中，必然要被环境限制，所谓视野之内叫知识、视野之外叫见识，为了提高知识输出者的检视，能够想办法突破网络对视野的限制也是一件非常关键的事情。这里有很多很多办法，比如：
 - 租用私人服务器，实现加密通道进行http的代理；
 - 租用私人服务器，搭建VPN的相关服务；
-- 像我一样，使用[豆荚加速器](http://jsq.me/2x9fc)，我购买的是年费服务，支持Http、软件内的代理，一个账号可以在Mac、iPad、iPhone上使用，安利一下。
+- 像我一样，使用[豆荚加速器][15]，我购买的是年费服务，支持Http、软件内的代理，一个账号可以在Mac、iPad、iPhone上使用，安利一下。
 
 ## 最小可实现的软件选型方案是什么？
 
@@ -161,5 +161,29 @@ Jekyll和Hexo都是静态网页生成服务，免费、开源，很多技术博�
 ---- 
 
 ## Changelog
-- 2016年05月06日 增加farbox内容 by [易仁永澄](http://blog.hiddenwangcc.com)
-- 2016年05月02日 创建内容 by [易仁永澄](http://blog.hiddenwangcc.com)
+- 2016年05月06日 增加farbox内容 by [易仁永澄][16]
+- 2016年05月02日 创建内容 by [易仁永澄][17]
+
+[1]:	http://www.ulyssesapp.com/
+[2]:	https://itunes.apple.com/cn/app/ulysses/id623795237?mt=12&ign-mpt=uo=4
+[3]:	https://itunes.apple.com/cn/app/ulysses/id950335311?mt=8&ign-mpt=uo=4
+[4]:	https://github.com/
+[5]:	http://blog.hiddenwangcc.com/archives/2645
+[6]:	http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+[7]:	http://backlogtool.com/git-guide/cn/intro/intro1_1.html
+[8]:	http://www.worldhello.net/gotgithub/
+[9]:	http://jekyll.bootcss.com/docs/home/
+[10]:	http://jekyllthemes.org/
+[11]:	http://blog.hiddenwangcc.com/archives/2454
+[12]:	https://hexo.io/zh-cn/docs/
+[13]:	https://www.gitbook.com/
+[14]:	http://book.upwiht.me
+[15]:	http://jsq.me/2x9fc
+[16]:	http://blog.hiddenwangcc.com
+[17]:	http://blog.hiddenwangcc.com
+
+[image-1]:	http://77fm42.com1.z0.glb.clouddn.com/icloud.jpg
+[image-2]:	http://77fm42.com1.z0.glb.clouddn.com/beiwanglu.jpg
+[image-3]:	http://77fm42.com1.z0.glb.clouddn.com/mindnode.jpg
+[image-4]:	http://77fm42.com1.z0.glb.clouddn.com/recapp.jpg
+[image-5]:	http://77fm42.com1.z0.glb.clouddn.com/ulysses.jpg
